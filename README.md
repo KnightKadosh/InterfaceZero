@@ -10,7 +10,7 @@
 | **Format** | PNG |
 | **Design Style** | Tactile, Matte Neumorphism |
 | **Creation** | Generated via ChatGPT |
-| **Prompt Logic** | [./Prompts/ruleset.md](./prompt/ruleset.md) |
+| **Prompt Logic** | [./Prompts/ruleset.md](./Prompts/ruleset.md) |
 | **License** | Personal Use / Open for PRs |
 
 ---
