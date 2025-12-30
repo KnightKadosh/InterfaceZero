@@ -10,7 +10,7 @@
 | **Format** | PNG |
 | **Design Style** | Tactile, Matte Neumorphism |
 | **Creation** | Generated via ChatGPT |
-| **Prompt Logic** | [./prompt/ruleset.md](./prompt/ruleset.md) |
+| **Prompt Logic** | [./Prompts/ruleset.md](./prompt/ruleset.md) |
 | **License** | Personal Use / Open for PRs |
 
 ---
@@ -19,7 +19,7 @@
 Every icon in this collection was generated using **ChatGPT**. I’ve developed a specific design system to ensure all icons share the same lighting, geometry, and "physical" feel.
 
 * **Want to contribute?** If you generate an icon that fits the system, please open a PR!
-* **The Rules:** Use the [Ruleset here](./prompt/ruleset.md) to maintain consistency.
+* **The Rules:** Use the [Ruleset here](./Prompts/ruleset.md) to maintain consistency.
 
 ---
 
