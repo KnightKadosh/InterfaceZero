@@ -32,11 +32,15 @@ Every icon in this collection was generated using **ChatGPT**. I’ve developed 
     <td align="center"><a href="./Icons/AI.png" download><img src="./Icons/AI.png" alt="AI" width="120"><br><sub>AI</sub></a></td>
     <td align="center"><a href="./Icons/ChatGPT.png" download><img src="./Icons/ChatGPT.png" alt="ChatGPT" width="120"><br><sub>ChatGPT</sub></a></td>
     <td align="center"><a href="./Icons/Claude.png" download><img src="./Icons/Claude.png" alt="Claude" width="120"><br><sub>Claude</sub></a></td>
+    <td align="center"><a href="./Icons/Copilot.png" download><img src="./Icons/Copilot.png" alt="Copilot" width="120"><br><sub>Copilot</sub></a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="./Icons/Gemini.png" download><img src="./Icons/Gemini.png" alt="Gemini" width="120"><br><sub>Gemini</sub></a></td>
+    <td></td><td></td><td></td>
   </tr>
 </table>
 
-### ⚙️ System & Navigation
+### ⚙️ System, Navigation & Browsers
 <table>
   <tr>
     <td align="center"><a href="./Icons/1Password.png" download><img src="./Icons/1Password.png" alt="1Password" width="120"><br><sub>1Password</sub></a></td>
@@ -47,6 +51,12 @@ Every icon in this collection was generated using **ChatGPT**. I’ve developed 
   <tr>
     <td align="center"><a href="./Icons/Apps2.png" download><img src="./Icons/Apps2.png" alt="Apps 2" width="120"><br><sub>Apps 2</sub></a></td>
     <td align="center"><a href="./Icons/Back.png" download><img src="./Icons/Back.png" alt="Back" width="120"><br><sub>Back</sub></a></td>
+    <td align="center"><a href="./Icons/Calendar.png" download><img src="./Icons/Calendar.png" alt="Calendar" width="120"><br><sub>Calendar</sub></a></td>
+    <td align="center"><a href="./Icons/Chrome-Dark.png" download><img src="./Icons/Chrome-Dark.png" alt="Chrome Dark" width="120"><br><sub>Chrome Dark</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./Icons/Chrome-Light.png" download><img src="./Icons/Chrome-Light.png" alt="Chrome Light" width="120"><br><sub>Chrome Light</sub></a></td>
+    <td align="center"><a href="./Icons/Chrome2.png" download><img src="./Icons/Chrome2.png" alt="Chrome 2" width="120"><br><sub>Chrome 2</sub></a></td>
     <td align="center"><a href="./Icons/Links.png" download><img src="./Icons/Links.png" alt="Links" width="120"><br><sub>Links</sub></a></td>
     <td align="center"><a href="./Icons/Profile-Business.png" download><img src="./Icons/Profile-Business.png" alt="Profile Biz" width="120"><br><sub>Profile Biz</sub></a></td>
   </tr>
@@ -61,56 +71,75 @@ Every icon in this collection was generated using **ChatGPT**. I’ve developed 
 ### 💬 Communication & Social
 <table>
   <tr>
+    <td align="center"><a href="./Icons/Email.png" download><img src="./Icons/Email.png" alt="Email" width="120"><br><sub>Email</sub></a></td>
     <td align="center"><a href="./Icons/Gmail.png" download><img src="./Icons/Gmail.png" alt="Gmail" width="120"><br><sub>Gmail</sub></a></td>
     <td align="center"><a href="./Icons/Messages.png" download><img src="./Icons/Messages.png" alt="Messages" width="120"><br><sub>Messages</sub></a></td>
     <td align="center"><a href="./Icons/Outlook.png" download><img src="./Icons/Outlook.png" alt="Outlook" width="120"><br><sub>Outlook</sub></a></td>
-    <td align="center"><a href="./Icons/Outlook2.png" download><img src="./Icons/Outlook2.png" alt="Outlook 2" width="120"><br><sub>Outlook 2</sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="./Icons/Outlook2.png" download><img src="./Icons/Outlook2.png" alt="Outlook 2" width="120"><br><sub>Outlook 2</sub></a></td>
     <td align="center"><a href="./Icons/reddit.png" download><img src="./Icons/reddit.png" alt="Reddit" width="120"><br><sub>Reddit</sub></a></td>
     <td align="center"><a href="./Icons/reddit2.png" download><img src="./Icons/reddit2.png" alt="Reddit 2" width="120"><br><sub>Reddit 2</sub></a></td>
     <td align="center"><a href="./Icons/Slack.png" download><img src="./Icons/Slack.png" alt="Slack" width="120"><br><sub>Slack</sub></a></td>
-    <td align="center"><a href="./Icons/Slack2.png" download><img src="./Icons/Slack2.png" alt="Slack 2" width="120"><br><sub>Slack 2</sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="./Icons/Slack2.png" download><img src="./Icons/Slack2.png" alt="Slack 2" width="120"><br><sub>Slack 2</sub></a></td>
     <td align="center"><a href="./Icons/Slack3.png" download><img src="./Icons/Slack3.png" alt="Slack 3" width="120"><br><sub>Slack 3</sub></a></td>
     <td align="center"><a href="./Icons/Slack4.png" download><img src="./Icons/Slack4.png" alt="Slack 4" width="120"><br><sub>Slack 4</sub></a></td>
     <td align="center"><a href="./Icons/Teams.png" download><img src="./Icons/Teams.png" alt="Teams" width="120"><br><sub>Teams</sub></a></td>
-    <td align="center"><a href="./Icons/Zoom.png" download><img src="./Icons/Zoom.png" alt="Zoom" width="120"><br><sub>Zoom</sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="./Icons/Zoom.png" download><img src="./Icons/Zoom.png" alt="Zoom" width="120"><br><sub>Zoom</sub></a></td>
     <td align="center"><a href="./Icons/Zoom2.png" download><img src="./Icons/Zoom2.png" alt="Zoom 2" width="120"><br><sub>Zoom 2</sub></a></td>
-    <td align="center"><a href="./Icons/Chrome-Dark.png" download><img src="./Icons/Chrome-Dark.png" alt="Chrome Dark" width="120"><br><sub>Chrome Dark</sub></a></td>
-    <td align="center"><a href="./Icons/Chrome-Light.png" download><img src="./Icons/Chrome-Light.png" alt="Chrome Light" width="120"><br><sub>Chrome Light</sub></a></td>
-    <td align="center"><a href="./Icons/Chrome2.png" download><img src="./Icons/Chrome2.png" alt="Chrome 2" width="120"><br><sub>Chrome 2</sub></a></td>
+    <td></td><td></td>
   </tr>
 </table>
 
-### 💼 Productivity & Work
+### 🏢 Enterprise, Admin & Operations
+<table>
+  <tr>
+    <td align="center"><a href="./Icons/Adobe-Admin.png" download><img src="./Icons/Adobe-Admin.png" alt="Adobe Admin" width="120"><br><sub>Adobe Admin</sub></a></td>
+    <td align="center"><a href="./Icons/Azure.png" download><img src="./Icons/Azure.png" alt="Azure" width="120"><br><sub>Azure</sub></a></td>
+    <td align="center"><a href="./Icons/BambooHR.png" download><img src="./Icons/BambooHR.png" alt="BambooHR" width="120"><br><sub>BambooHR</sub></a></td>
+    <td align="center"><a href="./Icons/Domo.png" download><img src="./Icons/Domo.png" alt="Domo" width="120"><br><sub>Domo</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./Icons/Google-Workspace-Admin.png" download><img src="./Icons/Google-Workspace-Admin.png" alt="Google Admin" width="120"><br><sub>Google Admin</sub></a></td>
+    <td align="center"><a href="./Icons/Hubspot.png" download><img src="./Icons/Hubspot.png" alt="Hubspot" width="120"><br><sub>Hubspot</sub></a></td>
+    <td align="center"><a href="./Icons/M365-Admin.png" download><img src="./Icons/M365-Admin.png" alt="M365 Admin" width="120"><br><sub>M365 Admin</sub></a></td>
+    <td align="center"><a href="./Icons/SAP-B1.png" download><img src="./Icons/SAP-B1.png" alt="SAP B1" width="120"><br><sub>SAP B1</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./Icons/Shopify.png" download><img src="./Icons/Shopify.png" alt="Shopify" width="120"><br><sub>Shopify</sub></a></td>
+    <td align="center"><a href="./Icons/Sophos-Central.png" download><img src="./Icons/Sophos-Central.png" alt="Sophos" width="120"><br><sub>Sophos</sub></a></td>
+    <td align="center"><a href="./Icons/Sophos-Central2.png" download><img src="./Icons/Sophos-Central2.png" alt="Sophos 2" width="120"><br><sub>Sophos 2</sub></a></td>
+    <td align="center"><a href="./Icons/Zendesk.png" download><img src="./Icons/Zendesk.png" alt="Zendesk" width="120"><br><sub>Zendesk</sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="./Icons/Zendesk2.png" download><img src="./Icons/Zendesk2.png" alt="Zendesk 2" width="120"><br><sub>Zendesk 2</sub></a></td>
+    <td></td><td></td><td></td>
+  </tr>
+</table>
+
+### 💼 Productivity & Workspace
 <table>
   <tr>
     <td align="center"><a href="./Icons/Acrobat.png" download><img src="./Icons/Acrobat.png" alt="Acrobat" width="120"><br><sub>Acrobat</sub></a></td>
     <td align="center"><a href="./Icons/Business.png" download><img src="./Icons/Business.png" alt="Business" width="120"><br><sub>Business</sub></a></td>
     <td align="center"><a href="./Icons/Excel.png" download><img src="./Icons/Excel.png" alt="Excel" width="120"><br><sub>Excel</sub></a></td>
-    <td align="center"><a href="./Icons/Google-Workspace-Admin.png" download><img src="./Icons/Google-Workspace-Admin.png" alt="Google Admin" width="120"><br><sub>Google Admin</sub></a></td>
+    <td align="center"><a href="./Icons/Insta360.png" download><img src="./Icons/Insta360.png" alt="Insta360" width="120"><br><sub>Insta360</sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="./Icons/Insta360.png" download><img src="./Icons/Insta360.png" alt="Insta360" width="120"><br><sub>Insta360</sub></a></td>
     <td align="center"><a href="./Icons/Monday.png" download><img src="./Icons/Monday.png" alt="Monday" width="120"><br><sub>Monday</sub></a></td>
     <td align="center"><a href="./Icons/Notion.png" download><img src="./Icons/Notion.png" alt="Notion" width="120"><br><sub>Notion</sub></a></td>
     <td align="center"><a href="./Icons/Notion2.png" download><img src="./Icons/Notion2.png" alt="Notion 2" width="120"><br><sub>Notion 2</sub></a></td>
+    <td align="center"><a href="./Icons/PowerBI.png" download><img src="./Icons/PowerBI.png" alt="Power BI" width="120"><br><sub>Power BI</sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="./Icons/PowerBI.png" download><img src="./Icons/PowerBI.png" alt="Power BI" width="120"><br><sub>Power BI</sub></a></td>
     <td align="center"><a href="./Icons/PowerPoint.png" download><img src="./Icons/PowerPoint.png" alt="PowerPoint" width="120"><br><sub>PowerPoint</sub></a></td>
     <td align="center"><a href="./Icons/Visio.png" download><img src="./Icons/Visio.png" alt="Visio" width="120"><br><sub>Visio</sub></a></td>
     <td align="center"><a href="./Icons/vscode.png" download><img src="./Icons/vscode.png" alt="VS Code" width="120"><br><sub>VS Code</sub></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="./Icons/Word.png" download><img src="./Icons/Word.png" alt="Word" width="120"><br><sub>Word</sub></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
